@@ -5,7 +5,7 @@ import struct
 import tqdm
 from pymongo import MongoClient
 
-client = MongoClient("mongodb+srv://minhdangquocminh03:30S9qi0aPQZ5wSfO@clusterserver.xbnnkjh.mongodb.net/")
+client = MongoClient("YOUR_MONGO_URL")
 db = client.get_database('CN')
 records = db.Client_Info
 onlineList = []
