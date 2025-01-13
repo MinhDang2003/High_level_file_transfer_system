@@ -1,6 +1,6 @@
 # P2P Simulation
 
-This is the first assignment for the **Computer Network** course.
+**Peer to Peer** file transfer system.
 
 ## Server
 
