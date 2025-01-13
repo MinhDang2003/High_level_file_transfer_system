@@ -6,7 +6,7 @@ from ClientBackend.clientImplement import Client
 from tkinter import messagebox
 
 #Set the IP of server here
-serverIP = "192.168.1.76"
+serverIP = ""
 ###########################
 client = Client(serverIP, 65432)
 
